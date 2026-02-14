@@ -1,12 +1,11 @@
-# Project Title
+# Scalable App
 
-A short description of what this project does and why it is useful.
+This is a scalable application project.
 
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
-- Easy to use
-- Fast performance
+## Description
 
-## 📂 Project Structure
+A project focused on building scalable applications.
+
+## Getting Started
+
+Clone the repository and follow the setup instructions.
