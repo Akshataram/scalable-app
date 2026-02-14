@@ -1,7 +1,1 @@
-__pycache__/
-*.pyc
-*.pyo
-*.log
-.env
-venv/
-test_ignore.txt
+abc.txt
